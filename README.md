@@ -1,5 +1,9 @@
 # Lifestyle
 
+This is my final project for Future Ready Talent which i opted for LifeStyle Domain
+
+#azure link https://witty-pond-014aa6a10.2.azurestaticapps.net
+
 ![image](https://user-images.githubusercontent.com/93997971/201479922-2297391b-38db-4e48-957d-ca7e253232b3.png)
 ![image](https://user-images.githubusercontent.com/93997971/201479965-9714d852-c8fe-4151-a019-e4e3b961fadf.png)
 ![image](https://user-images.githubusercontent.com/93997971/201479974-86003217-ee28-4e7f-85c1-d957da5cfbb0.png)
